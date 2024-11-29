@@ -1,0 +1,85 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+  }
+
+  .section {
+    height: 33.33vh; 
+    width: 100%; 
+  }
+
+  .section1 {
+    background-color: rgb(48,48,51); 
+    height: 76.33vh; 
+  }
+
+  .section2 {
+    background-color: rgb(255, 255, 255);
+    height: 200.33vh; 
+  }
+
+  .section3 {
+    background-color: rgb(49, 48, 51); 
+  }
+  .stop{
+    padding-left: 40%;
+  }
+  .real{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 420%;
+    color: #ffffff;
+    padding-left: 15%;
+    transform: translateY(-600%);
+  }
+  .relax{
+    font-size: 820%;
+    font-family: Copperplate, Papyrus, fantasy;
+    transform: translateY(-350%);
+    padding-left: 15%;
+    color:#ffffff
+  }
+  .content {
+    padding-left: 15%;
+    transform: translateY(-450%);
+    color: #ffffff;
+    font-size: 400%;
+    width: 35%;
+    background: rgb(103,22,30);}
+    .ded{
+        font-size: 420%;
+        color:103,22,30
+        font-family: Arial, Helvetica, sans-serif;
+        transform: translateY(-2410%);
+        padding-left: 42%;
+    }
+    .sneg{
+    transform: translateY(40%);
+    padding-left: 5%;
+
+    }
+    .nebes{
+      transform: translateY(40%);
+      padding-left: 5%;
+    }
+    .lol{
+      transform: translateY(40%);
+      padding-left: 5%; 
+    }
+    .fire{
+      transform: translateY(40%);
+      padding-left: 5%; 
+    }
+    .nandpis{
+      transform: translateY(40%);
+      padding-left: 5%;
+    }
+    .aidun{
+      transform: translateY(200%);
+      padding-left: 8%;
+      font-size: 200%;
+    }
+    .ara{
+      transform: translateY(100%);
+      padding-left: 25%;
+      font-size: 200%;
+    }
